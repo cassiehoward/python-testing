@@ -45,7 +45,7 @@ jobs:
 
 ## Step 3: Create a requirements.txt file
 
-3In your git repository, create a file named `requirements.txt`. 
+3. In your git repository, create a file named `requirements.txt`. 
 Here's a simple example of a requirements.txt:
 ```commandline
 pytest
